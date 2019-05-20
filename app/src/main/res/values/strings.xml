@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="calendar_monthly">월간</string>
+    <string name="calendar_weekly">주간</string>
+    <string name="calendar_daily">일간</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
